@@ -92,3 +92,10 @@ input{
     .item{
         width: 80%;
     }
+    
+    .my-btn{
+        border: none;
+        background-color: transparent;
+        color: #5c4d74;
+        font-weight: bold;
+    }
